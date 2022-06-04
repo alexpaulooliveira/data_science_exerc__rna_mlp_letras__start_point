@@ -4,7 +4,9 @@
 
 Execute as seguintes tarefas:
 
-### 1) Crie um software que seja programado para ler um arquivo TXT com o seguinte conteúdo:
+### 1) Faça uma pesquisa, na Internet, acerca de treinamento supervisionado para RNAs (Redes Neurais Artificiais)
+
+### 2) Crie um software que seja programado para ler um arquivo TXT com o seguinte conteúdo:
 
 010 <br/>
 101 <br/>
@@ -50,11 +52,11 @@ os dados de entrada para o treinamento, representa a saída desejada para a letr
 que será treinada.
  <br/>
 
-### 2) Se julgar necessário, para observar uma implementação do que está sendo solicitado neste exercício, baixe o arquivo TesteRedeNeural.exe (disponível neste repositório). Crie um arquivo de texto e grave nele o conteúdo visto na questão 1 deste exercício. Utilize o software baixado para compreender o funcionamento do treinamento supervisionado. 
+### 3) Se julgar necessário, para observar uma implementação do que está sendo solicitado neste exercício, baixe o arquivo TesteRedeNeural.exe (disponível neste repositório). Crie um arquivo de texto e grave nele o conteúdo visto na questão 1 deste exercício. Utilize o software baixado para compreender o funcionamento do treinamento supervisionado. 
 
 
-### 3) Crie um rede neural para treinamento supervisionado, considerando o conteúdo lido, do arquivo citado, como o mapa de treinamento. O objetivo é atingir o erro médio máximo parametrizado, conforme visto na imagem:
+### 4) Crie um rede neural para treinamento supervisionado, considerando o conteúdo lido, do arquivo citado, como o mapa de treinamento. O objetivo é atingir o erro médio máximo parametrizado, conforme visto na imagem:
 
 ![Drag Racing](./rna_letras_treinamento.png)
 
-### 4) Construa, no mesmo software, uma interface para testar a rede neural após o seu treinamento.
+### 5) Construa, no mesmo software, uma interface para testar a rede neural após o seu treinamento.
