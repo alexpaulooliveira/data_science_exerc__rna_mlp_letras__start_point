@@ -53,7 +53,7 @@ que será treinada.
 ### 2) Se julgar necessário, para observar uma implementação do que está sendo solicitado neste exercício, baixe o arquivo TesteRedeNeural.exe (disponível neste repositório). Crie um arquivo de texto e grave nele o conteúdo visto na questão 1 deste exercício. Utilize o software baixado para compreender o funcionamento do treinamento supervisionado. 
 
 
-### 3) Crie um rede neural para treinamento supervisionado, considerando o conteúdo lido do arquivo citado como o mapa de treinamento. O objetivo é atingir o erro médio máximo parametrizado na interface à semelhança do que pode ser visto na imagem:
+### 3) Crie um rede neural para treinamento supervisionado, considerando o conteúdo lido, do arquivo citado, como o mapa de treinamento. O objetivo é atingir o erro médio máximo parametrizado, conforme visto na imagem:
 
 ![Drag Racing](./rna_letras_treinamento.png)
 
